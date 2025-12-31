@@ -4,5 +4,5 @@ Este proyecto tiene dos propósitos; En primer lugar documentar y dar constancia
 
 Muchas gracias por leer este readme hasta el final, aquí abajo te dejo mis redes sociales por si tienes alguna otra duda o sugerencia de este proyecto.
 
-IG: juanmi_beriguete
+IG: juanmi_beriguete 
 Correo: juanmiguelbc04@gmail.com
