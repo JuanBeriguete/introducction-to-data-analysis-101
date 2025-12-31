@@ -1,0 +1,35 @@
+Conceptos basicos(aplatanao) y preguntas que me he ido planteando a traves de todo el proceso de aprendizaje:
+
+aplatanao: Se refiere a decir las cosas de forma simple y en un lenguaje más casual. 
+
+funciones:  Imaginate que quieres hacer una formula complicada, escribir esta formula todas las veces que quieras usarla 
+en un codigo seria tedioso, para eso existen las funciones, en vez de escribir una formula puedes crear una funcion y asi 
+llamar esa funcion que la contenga y asi simplificar las cosas a la hora de escribir y leer tu codigo, pero pensar solo 
+en formulas seria solo pensar en lo basico, estas tienen como objetivo principal almacenar procediminetos enteros, procesos 
+que sería tedioso tener que copiar y pegar 70 mil veces.
+
+
+Librerias: Si una función es algo que te permite abreviar el proceso de tener que volver a escribir código, una librería lo 
+que hace es guardar funciones de otras personas y poder importarlas dentro de tu propio código, así no tienes que volver a 
+inventar la rueda. Puedes utilizar y optimizar muchos procesos en base a lo que tú tienes con solo buscar cosas en Internet; 
+una de las mas populares es la libreria math; en este repo hablaresmos de dos librerias en contreco “pandas” y “matplotlib” 
+que son librerías especializadas para el análisis y presentación de datos con python.
+
+CSV: CSV (o Comma Separated values) es un formato estandarizado que suelen usar las empresas para pasar información de manera 
+simple entre base de datos y Excel o para pasarlas directamente a Python, la librería pandas tiene una función que te permite
+pasar un documento de este tipo a código legible por Python.  
+
+¿Por qué se usa Python?
+  Se usa Python para el análisis de datos por su sintaxis sencilla y legible, que facilita el aprendizaje y el desarrollo rápido; 
+  su ecosistema robusto de bibliotecas (Pandas, NumPy, Matplotlib) para manipulación, cálculo y visualización; su versatilidad para 
+  tareas desde el web scraping hasta el Machine Learning; y el soporte de una gran comunidad que contribuye a su mejora continua.
+
+¿?
+
+
+
+
+
+
+
+
